@@ -1,0 +1,37 @@
+.navigation {
+    background-color: grey;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    margin-top: 0%;
+    word-spacing: 50px
+    
+}
+
+header {
+    background-color: rgb(53, 154, 222);
+    padding-block: 10px;
+    text-align: center;
+    }
+
+    .first_title {
+        color: white;
+    }
+
+    .second_title {
+        color: aqua
+    }
+
+    .link-2 {
+        color: white;
+  }
+
+  .footer {
+    text-align:center;
+    background-color: rgb(53, 154, 222);
+    padding-block: 5px;
+    color:antiquewhite;
+  }
+ 
+  
+  
